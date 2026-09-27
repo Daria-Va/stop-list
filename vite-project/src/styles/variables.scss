@@ -1,0 +1,25 @@
+$color-bg: #f6f3ee;
+$color-surface: #ffffff;
+$color-surface-muted: #efebe4;
+$color-accent: #c6462f;
+$color-accent-hover: #a93a26;
+$color-text: #171512;
+$color-text-muted: #6b665e;
+$color-border: #ddd6cb;
+$color-error: #d0312d;
+
+// Отступы
+$space-xs: 4px;
+$space-sm: 8px;
+$space-md: 16px;
+$space-lg: 24px;
+$space-xl: 32px;
+
+// Прочее
+$radius: 10px;
+$shadow: 0 1px 3px rgba(23, 21, 18, 0.08);
+$transition: 0.2s ease;
+$font: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+// Брейкпоинты
+$bp-desktop: 900px;
